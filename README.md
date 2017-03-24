@@ -8,7 +8,7 @@ yarn install // or npm i
 // you can set the DEBUG env var here then:
 electron-forge make // or yarn make
 ```
-to remove the error, edit line 4 of `package.json` file like this:
+to remove the error, edit line 4 of `package.json` file like this:  
 with error:
 ```
 "description": "a long description with line breaks\nto show the problem that happen during the build",
